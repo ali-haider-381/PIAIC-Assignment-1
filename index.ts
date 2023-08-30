@@ -35,9 +35,3 @@ console.log("Multiplication is",mul);
 console.log("Division of g and a is",div);
 /*perform all four operations with the given numbers, print the results, and observe the order in which the operations take place.*/
 console.log(2-6*13+8/5);
-
-
-
-
-
-
